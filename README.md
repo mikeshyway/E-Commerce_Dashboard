@@ -17,7 +17,8 @@ Welcome to the **MICSON** repository! 🎉 MICSON is a comprehensive footwear e-
     - `logoutUser()`: Ends the user session and clears cookies to maintain security.
 
 - **🛒 Product Browsing**:
-  - Functions: `fetchProductsByCategory()`, `applyFilters()`, `searchProducts()`.
+  - Functions: `fetchProductsByCategory()`.
+  <!-- - Functions: `fetchProductsByCategory()`, `applyFilters()`, `searchProducts()`. -->
   - **Purpose**: To display products dynamically and allow users to filter by categories such as sneakers, sandals, and basketball shoes.
   - **How It Works**:
     - `fetchProductsByCategory()`: Queries the database for products based on the selected category and renders them in a grid layout.
