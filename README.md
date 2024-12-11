@@ -11,7 +11,8 @@ Welcome to the **MICSON** repository! 🎉 MICSON is a comprehensive footwear e-
   - Functions: `registerUser()`, `loginUser()`, `logoutUser()`.
   - **Purpose**: To securely manage user accounts and sessions.
   - **How It Works**: 
-    - `registerUser()`: Validates input fields, checks for duplicate accounts in the database, and securely hashes passwords using `password_hash()` in PHP.
+    - `registerUser()`: Validates input fields, checks for duplicate accounts in the database.
+    <!-- - `registerUser()`: Validates input fields, checks for duplicate accounts in the database, and securely hashes passwords using `password_hash()` in PHP. -->
     - `loginUser()`: Matches credentials against the database using prepared SQL statements to prevent SQL injection.
     - `logoutUser()`: Ends the user session and clears cookies to maintain security.
 
