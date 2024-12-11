@@ -1,0 +1,18 @@
+*{
+    font-family: "Roboto", sans-serif;
+} 
+
+a{
+    text-decoration: none;
+}
+
+.underline {
+    height: 5px;
+    width: 50px;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+.bg-f2f2f2{
+    background-color: #f2f2f2;
+}
