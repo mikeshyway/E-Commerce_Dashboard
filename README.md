@@ -2,9 +2,9 @@
 
 Welcome to the **MICSON** repository! 🎉 MICSON is a comprehensive footwear e-commerce platform offering a seamless shopping experience for both users and administrators. This website is designed with a sleek **user interface (UI)** for customers and a powerful **admin dashboard** to manage the platform effectively. Below, we’ll break down every function and feature implemented in this project, ensuring a complete understanding for newcomers and contributors.
 
+### [Watch this video on YouTube](https://youtu.be/ii6_VkVIilk)
 [![Watch the video](https://img.youtube.com/vi/ii6_VkVIilk/maxresdefault.jpg)](https://youtu.be/ii6_VkVIilk)
 
-### [Watch this video on YouTube](https://youtu.be/ii6_VkVIilk)
 
 ---
 
