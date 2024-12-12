@@ -127,10 +127,64 @@ Welcome to the **MICSON** repository! 🎉 MICSON is a comprehensive footwear e-
 4. **Add to Cart**, adjust quantities, and complete checkout securely.
 5. **Track Orders** with real-time updates.
 
-### 🛠️ For Admins:
+### 🏷️ For Admins:
 1. Manage **categories**, **products**, and **orders** using a dashboard.
 2. Add or edit categories and products in real time.
 3. Monitor orders and update statuses with user notifications.
+
+---
+
+## 🧾 Instruction to Download the Code
+
+### 1. Fetch the Source Code 💻
+
+#### Option 1: Download .zip file from GitHub Download / GitHub Web URL into IDE
+
+###### GitHub Download
+- Go to the MICSON repository on GitHub.
+- Click the green "Code" button. (GitHub Download)
+- Extract the .zip folder to unlock the code files.
+- Copy and Paste the Folder with all of the code files into the C:\xampp\htdocs directory.
+
+###### GitHub Web URL
+- Copy the HTTPS or SSH URL. (GitHub Web URL)
+- Open your terminal or command prompt.
+- Navigate to the C:\xampp\htdocs directory.
+- Use the following command to clone the repository:
+- Bash
+  > git clone https://github.com/your-username/MICSON.git E-Commerce_Dashboard in your computer's cmd.
+
+  ----- OR -----
+
+  > Replace https://github.com/your-username/MICSON.git with the actual repository URL.
+
+#### Option 2: Cloning Repository with GitHub Desktop 
+
+- Install GitHub Desktop.
+- Open GitHub Desktop.
+- Click "File" -> "Clone Repository".
+- Paste the MICSON repository URL.
+- Choose a destination folder (e.g., C:\xampp\htdocs\E-Commerce_Dashboard).
+- Click "Clone".
+
+### 2. Set Up XAMPP Control Panel ⚙️
+
+- Download and install XAMPP.
+- Open the XAMPP Control Panel.
+- Start the Apache and MySQL modules.
+
+### 3. Import the MySQL Database into XAMPP Control Panel 🗃️
+
+- Open phpMyAdmin in your browser (usually http://localhost/phpmyadmin).
+- Create a new database named "phpecom".
+- Import the phpecom.sql file from the MICSON repository into the newly created database.
+
+### 4. Run the Project 🚀
+
+- Open your web browser.
+- Type http://localhost/E-Commerce_Dashboard in the address bar.
+- This will launch the MICSON e-commerce dashboard.
+- Enjoy your MICSON e-commerce platform! 🛍️
 
 ---
 
