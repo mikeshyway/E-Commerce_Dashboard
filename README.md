@@ -2,7 +2,7 @@
 
 Welcome to the **MICSON** repository! 🎉 MICSON is a comprehensive footwear e-commerce platform offering a seamless shopping experience for both users and administrators. This website is designed with a sleek **user interface (UI)** for customers and a powerful **admin dashboard** to manage the platform effectively. Below, we’ll break down every function and feature implemented in this project, ensuring a complete understanding for newcomers and contributors.
 
-### [Watch this video on YouTube](https://youtu.be/ii6_VkVIilk)
+### [🎥 Watch This Demostration Video](https://youtu.be/ii6_VkVIilk)
 [![Watch the video](https://img.youtube.com/vi/ii6_VkVIilk/maxresdefault.jpg)](https://youtu.be/ii6_VkVIilk)
 
 
@@ -46,7 +46,7 @@ Welcome to the **MICSON** repository! 🎉 MICSON is a comprehensive footwear e-
   - **Purpose**: To assist users in selecting the correct shoe size.
   - **How It Works**: The size chart is referenced from online certified footwear measurements in 2024 globally, providing accurate references for different demographics. 
 
-**🔥 Trending, New Arrivals & Sales Labels**:
+- **🔥 Trending, New Arrivals & Sales Labels**:
   - Functions: `fetchTrendingProducts()`, `labelProducts()`.
   - **Purpose**: Highlight popular products as trending, new arrivals, or sales items.
   - **How It Works**:
