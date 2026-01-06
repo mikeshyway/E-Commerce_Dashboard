@@ -197,7 +197,7 @@ Below, we’ll break down every function and feature implemented in this project
 ## 🏆 Special Thanks
 Developed with ❤️ by:
 - **Lau Jia Wei ([@mikeshyway](https://github.com/mikeshyway))**
-- **Janson Then Ye Herng ([@JesnonThen](https://github.com/JesnonThen))**
+- **Jenson Then Ye Herng ([@JesnonThen](https://github.com/JesnonThen))**
 
 Supervised by:
 - **Ms. Chik Soon Wai**
@@ -205,6 +205,7 @@ Supervised by:
 ---
 
 🎉 **Happy Coding!**
+
 
 
 
